@@ -2,6 +2,8 @@
 
 The Python standard library has a lot of really cool library that I don't see people use to frequently. This talk is meant to help expose a few to help you better hack together a new project or write even more efficient python code!
 
+Also, just a parital disclaimer, not all the code is from me and some of it comes directly from the python documentation.
+
 - [Link to presentation slides](https://docs.google.com/presentation/d/1zFJ7ojY_kec_hzoml-SnrIfYGXDJRtI3YEqc5VQHvLA/edit?usp=sharing)
 
 ### Links to librarires mentioned
